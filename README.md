@@ -9,7 +9,7 @@ The goal of this analysis is to identify key factors that contribute to the succ
 * **`foodmandu_data.csv`**: Raw dataset containing restaurant details, ratings, and pricing.
 * **`cloud_kitchen_ml_ready.csv`**: Pre-processed and cleaned dataset optimized for Machine Learning models.
 * **`foodmandu.ipynb`**: Jupyter Notebook containing data cleaning, exploratory data analysis (EDA), and visualization.
-* **`Cloud Kitchen Market Analysis.pdf`**: A comprehensive report summarizing the market research and business insights.
+* **`Cloud Kitchen Expansion in Kathmandu.docx`**: A comprehensive report summarizing the market research and business insights.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
